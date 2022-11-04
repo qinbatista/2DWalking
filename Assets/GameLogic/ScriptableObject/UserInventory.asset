@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1419a950802674d369cab3ba8ad0aaeb, type: 3}
+  m_Name: UserInventory
+  m_EditorClassIdentifier: 
+  savePath: /Ivt.txt
+  Container:
+    WeaponContainer:
+    - amount: 1
+      weaponData:
+        Id: 0
+        stackable: 0
+        itemType: 0
+        itemName: LASER_NAME
+        description: LASER_DESCRIPTION
+        weaponType: 0
+        damage_base: 100
+        damage_base_rate: 0.3
+        basic_skill_cool_down: 0
+        basic_skill_damage_rate: 1.3
+        special_skill_cool_down: 5
+        special_skill_damage_rate: 2
+        ultimate_skill_cool_down: 10
+        ultimate_skill_damage_rate: 5
+        crit_rate: 0.15
+        crit_damage_rate: 1.5
+        final_damage_range_rate: 0.5
+        extra_boss_damage: 0
+        health: 200
+        defense: 100
+        defense_recover_rate: 0.3
+        projectile_speed: 1
+        attack_speed: 0.2
+        normal_element: 80
+        special_element: 19
+        weapon_element_type: 1
+    - amount: 1
+      weaponData:
+        Id: 0
+        stackable: 0
+        itemType: 0
+        itemName: LASER_NAME
+        description: LASER_DESCRIPTION
+        weaponType: 0
+        damage_base: 100
+        damage_base_rate: 0.3
+        basic_skill_cool_down: 0
+        basic_skill_damage_rate: 1.3
+        special_skill_cool_down: 5
+        special_skill_damage_rate: 2
+        ultimate_skill_cool_down: 10
+        ultimate_skill_damage_rate: 5
+        crit_rate: 0.15
+        crit_damage_rate: 1.5
+        final_damage_range_rate: 0.5
+        extra_boss_damage: 0
+        health: 200
+        defense: 100
+        defense_recover_rate: 0.3
+        projectile_speed: 1
+        attack_speed: 0.2
+        normal_element: 80
+        special_element: 19
+        weapon_element_type: 1
+    - amount: 1
+      weaponData:
+        Id: 0
+        stackable: 0
+        itemType: 0
+        itemName: LASER_NAME
+        description: LASER_DESCRIPTION
+        weaponType: 0
+        damage_base: 100
+        damage_base_rate: 0.3
+        basic_skill_cool_down: 0
+        basic_skill_damage_rate: 1.3
+        special_skill_cool_down: 5
+        special_skill_damage_rate: 2
+        ultimate_skill_cool_down: 10
+        ultimate_skill_damage_rate: 5
+        crit_rate: 0.15
+        crit_damage_rate: 1.5
+        final_damage_range_rate: 0.5
+        extra_boss_damage: 0
+        health: 200
+        defense: 100
+        defense_recover_rate: 0.3
+        projectile_speed: 1
+        attack_speed: 0.2
+        normal_element: 80
+        special_element: 19
+        weapon_element_type: 2
+    - amount: 1
+      weaponData:
+        Id: 0
+        stackable: 0
+        itemType: 0
+        itemName: LASER_NAME
+        description: LASER_DESCRIPTION
+        weaponType: 0
+        damage_base: 100
+        damage_base_rate: 0.3
+        basic_skill_cool_down: 0
+        basic_skill_damage_rate: 1.3
+        special_skill_cool_down: 5
+        special_skill_damage_rate: 2
+        ultimate_skill_cool_down: 10
+        ultimate_skill_damage_rate: 5
+        crit_rate: 0.15
+        crit_damage_rate: 1.5
+        final_damage_range_rate: 0.5
+        extra_boss_damage: 0
+        health: 200
+        defense: 100
+        defense_recover_rate: 0.3
+        projectile_speed: 1
+        attack_speed: 0.2
+        normal_element: 80
+        special_element: 19
+        weapon_element_type: 1
+    - amount: 1
+      weaponData:
+        Id: 0
+        stackable: 0
+        itemType: 0
+        itemName: LASER_NAME
+        description: LASER_DESCRIPTION
+        weaponType: 0
+        damage_base: 100
+        damage_base_rate: 0.3
+        basic_skill_cool_down: 0
+        basic_skill_damage_rate: 1.3
+        special_skill_cool_down: 5
+        special_skill_damage_rate: 2
+        ultimate_skill_cool_down: 10
+        ultimate_skill_damage_rate: 5
+        crit_rate: 0.15
+        crit_damage_rate: 1.5
+        final_damage_range_rate: 0.5
+        extra_boss_damage: 0
+        health: 200
+        defense: 100
+        defense_recover_rate: 0.3
+        projectile_speed: 1
+        attack_speed: 0.2
+        normal_element: 80
+        special_element: 19
+        weapon_element_type: 2
+    ScrollContainer: []
