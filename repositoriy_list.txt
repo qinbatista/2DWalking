@@ -1,0 +1,9 @@
+obj
+ProjectSettings
+Library
+UserSettings
+Logs
+Packages
+.git
+.vscode
+Assets
